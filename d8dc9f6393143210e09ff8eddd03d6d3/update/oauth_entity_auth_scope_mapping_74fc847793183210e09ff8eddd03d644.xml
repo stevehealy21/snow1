@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity_auth_scope_mapping">
+    <oauth_entity_auth_scope_mapping action="INSERT_OR_UPDATE">
+        <auth_scope display_value="git_app">524c083793183210e09ff8eddd03d65a</auth_scope>
+        <oauth_entity display_value="Steve">2f1a407393183210e09ff8eddd03d6ce</oauth_entity>
+        <sys_class_name>oauth_entity_auth_scope_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-06 19:50:56</sys_created_on>
+        <sys_id>74fc847793183210e09ff8eddd03d644</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="GIT App" source="x_577562_git_app">d8dc9f6393143210e09ff8eddd03d6d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GIT App">d8dc9f6393143210e09ff8eddd03d6d3</sys_scope>
+        <sys_update_name>oauth_entity_auth_scope_mapping_74fc847793183210e09ff8eddd03d644</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-06 19:50:56</sys_updated_on>
+    </oauth_entity_auth_scope_mapping>
+</record_update>
